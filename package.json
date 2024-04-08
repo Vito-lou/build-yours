@@ -1,0 +1,15 @@
+{
+  "name": "build-yours",
+  "version": "1.0.0",
+  "description": "Learning by coding is the best way to master a programming language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  }
+}
